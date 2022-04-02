@@ -12,8 +12,6 @@ html {
     --colormain: #0D6CE8;
 
 
-    
-
 }
 
 ul {
@@ -499,7 +497,7 @@ span {
     -32px -32px 67px #1e1e27;
 
 
-    background-image: url("space travel.jpg");
+    background-image: url("space travel.JPG");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
