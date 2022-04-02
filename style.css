@@ -473,7 +473,7 @@ span {
 }
 
 .carteProjet {
-    margin: 0 75px;
+    margin: 0 30px;
     height: 600px;
     width: 375px;
     background-color: var(--colorcard);
@@ -710,11 +710,11 @@ span {
         transform: translateY(25px);
 
     }
-
+/*
     .carteProjet {
         margin: 0 35px;
 
-    }
+    }*/
 }
 
 @media (max-width: 1000px) {
@@ -745,6 +745,10 @@ span {
     .about {
         height: 1200px;
     }
+    .text-header {
+        margin: 0 1% 0 10%;
+    }
+    
 
 }
 
